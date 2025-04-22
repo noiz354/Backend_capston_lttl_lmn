@@ -1,0 +1,4 @@
+username                password            token
+admin_littlelemon       restaurant123*      5f8bd6c6a78a50c9078240450ab40b3862f67e2a
+customer1               restaurant123*      6111c3bef8daf9c193e7004ffa9eec55bd77073c
+manager1                restaurant123*      f268f30ce78fac6d7e855a9970f14d05e9382aad
